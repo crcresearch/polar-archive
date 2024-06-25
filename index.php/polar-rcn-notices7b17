@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Polar RCN Notices</title>
+	<subtitle type="text">Polar RCN website</subtitle>
+	<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu"/>
+	<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices</id>
+	<updated>2024-06-25T13:33:39+00:00</updated>
+	<author>
+		<name>Polar RCN</name>
+		<email>csweet1@nd.edu</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices?format=feed&amp;type=atom"/>
+	<entry>
+		<title>HPC Polar RCN -- Polar 2018 Event Schedule Available</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/35-hpc-polar-rcn-polar-2018-event-schedule-available"/>
+		<published>2018-03-17T03:01:22+00:00</published>
+		<updated>2018-03-17T03:01:22+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/35-hpc-polar-rcn-polar-2018-event-schedule-available</id>
+		<author>
+			<name>Shantenu Jha</name>
+			<email>shantenu.jha@rutgers.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;Polar 2018 Event Schedule is now available.&lt;/strong&gt; Click &lt;a href=&quot;http://www.caseyyoungflesh.com/2018-06-16-davos/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Polar 2018 Event Schedule is now available.&lt;/strong&gt; Click &lt;a href=&quot;http://www.caseyyoungflesh.com/2018-06-16-davos/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Announcement for support for May 22-24th, CSDMS meeting attendance</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/34-announcement-for-support-for-may-22-24th-csdms-meeting-attendance"/>
+		<published>2018-03-11T17:01:18+00:00</published>
+		<updated>2018-03-11T17:01:18+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/34-announcement-for-support-for-may-22-24th-csdms-meeting-attendance</id>
+		<author>
+			<name>Allen Pope</name>
+			<email>allen.pope@nsidc.org</email>
+		</author>
+		<summary type="html">&lt;h2&gt;&lt;strong&gt;Announcement for support for May 22-24th, CSDMS meeting attendance&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Are you studying polar processes and interested in using numerical models? Do you work on polar and glacial landscapes and would your research benefit from learning more on data cyberinfrastructure and high performance computing? Check this out, note the announcement has a quick turn-around time!&lt;/p&gt;
+&lt;p&gt;The Polar Computing Research Coordination Network has teamed up with CSDMS &amp;ndash;the Community Surface Dynamics Modeling System- to incite connections between earth surface processes modelers and cryosphere process modelers.&lt;/p&gt;
+&lt;p&gt;The Polar Research Coordination Network aims to connect the Polar Science, Data and High-Performance and Distributed Computing communities to enable deeper penetration of computing methods and cyberinfrastructure into the polar sciences. CSDMS &amp;ndash;the Community Surface Dynamics Modeling System is focused on earth surface processes modeling, and has interest to bridge to permafrost, sea ice, ice sheet and glacial modelers.&lt;/p&gt;
+&lt;p&gt;To build connections between these communities, we offer 8-10 stipends to support attendance to the Annual Meeting on &amp;lsquo;Geoprocesses, Geohazards&amp;rsquo;, in Boulder Colorado.&lt;/p&gt;
+&lt;p&gt;May 22-24&lt;span class=&quot;m_-6346946555119951432s2&quot;&gt;&lt;sup&gt;th&lt;/sup&gt;, 2018.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Support includes registration, travel, and lodging under the following conditions:&lt;/p&gt;
+&lt;p&gt;Travel reimbursement only is for travel within the US, with a maximum of $500, and local travel from Denver Airport to Boulder at $70. Lodging will be provided at the designated meeting hotel (for the evenings of May 21st, 22nd and 23rd, shared rooms at 100% of cost and single rooms at 50% of cost), breakfast and lunch each day of the meeting and one dinner, shuttle service between meeting hotel and meeting venue. Per diem, parking, or local transportation fees will not be reimbursed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Please send us a short paragraph motivating your interest in participating by March 15th, and we will respond within a week. Email:&amp;nbsp;&lt;/b&gt;&lt;a href=&quot;mailto:csdms@colorado.edu&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b&gt;csdms@colorado.edu&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Upon approval, or when you do not need support for attendance, you can register and submit your abstract here:&amp;nbsp;&lt;a href=&quot;https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcsdms.colorado.edu%2Fwiki%2FForm%3AAnnualmeeting2018&amp;amp;data=02%7C01%7Csj353%40soe.rutgers.edu%7Ce2b096a9a9ef4769154a08d5843508e8%7Cb92d2b234d35447093ff69aca6632ffe%7C1%7C1%7C636560285685096881&amp;amp;sdata=6f6OgOoU%2FXQHizkGF0BwFDUKSbL4c%2FPSRx68Y0I1VcQ%3D&amp;amp;reserved=0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://na01.safelinks.protection.outlook.com/?url%3Dhttps%253A%252F%252Fcsdms.colorado.edu%252Fwiki%252FForm%253AAnnualmeeting2018%26data%3D02%257C01%257Csj353%2540soe.rutgers.edu%257Ce2b096a9a9ef4769154a08d5843508e8%257Cb92d2b234d35447093ff69aca6632ffe%257C1%257C1%257C636560285685096881%26sdata%3D6f6OgOoU%252FXQHizkGF0BwFDUKSbL4c%252FPSRx68Y0I1VcQ%253D%26reserved%3D0&amp;amp;source=gmail&amp;amp;ust=1520872846979000&amp;amp;usg=AFQjCNFgStldVaSp-3FIdYws5FgIYKOcUA&quot;&gt;https://csdms.colorado.edu/&lt;wbr /&gt;wiki/Form:Annualmeeting2018&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h2&gt;&lt;strong&gt;Announcement for support for May 22-24th, CSDMS meeting attendance&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Are you studying polar processes and interested in using numerical models? Do you work on polar and glacial landscapes and would your research benefit from learning more on data cyberinfrastructure and high performance computing? Check this out, note the announcement has a quick turn-around time!&lt;/p&gt;
+&lt;p&gt;The Polar Computing Research Coordination Network has teamed up with CSDMS &amp;ndash;the Community Surface Dynamics Modeling System- to incite connections between earth surface processes modelers and cryosphere process modelers.&lt;/p&gt;
+&lt;p&gt;The Polar Research Coordination Network aims to connect the Polar Science, Data and High-Performance and Distributed Computing communities to enable deeper penetration of computing methods and cyberinfrastructure into the polar sciences. CSDMS &amp;ndash;the Community Surface Dynamics Modeling System is focused on earth surface processes modeling, and has interest to bridge to permafrost, sea ice, ice sheet and glacial modelers.&lt;/p&gt;
+&lt;p&gt;To build connections between these communities, we offer 8-10 stipends to support attendance to the Annual Meeting on &amp;lsquo;Geoprocesses, Geohazards&amp;rsquo;, in Boulder Colorado.&lt;/p&gt;
+&lt;p&gt;May 22-24&lt;span class=&quot;m_-6346946555119951432s2&quot;&gt;&lt;sup&gt;th&lt;/sup&gt;, 2018.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Support includes registration, travel, and lodging under the following conditions:&lt;/p&gt;
+&lt;p&gt;Travel reimbursement only is for travel within the US, with a maximum of $500, and local travel from Denver Airport to Boulder at $70. Lodging will be provided at the designated meeting hotel (for the evenings of May 21st, 22nd and 23rd, shared rooms at 100% of cost and single rooms at 50% of cost), breakfast and lunch each day of the meeting and one dinner, shuttle service between meeting hotel and meeting venue. Per diem, parking, or local transportation fees will not be reimbursed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Please send us a short paragraph motivating your interest in participating by March 15th, and we will respond within a week. Email:&amp;nbsp;&lt;/b&gt;&lt;a href=&quot;mailto:csdms@colorado.edu&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;b&gt;csdms@colorado.edu&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Upon approval, or when you do not need support for attendance, you can register and submit your abstract here:&amp;nbsp;&lt;a href=&quot;https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcsdms.colorado.edu%2Fwiki%2FForm%3AAnnualmeeting2018&amp;amp;data=02%7C01%7Csj353%40soe.rutgers.edu%7Ce2b096a9a9ef4769154a08d5843508e8%7Cb92d2b234d35447093ff69aca6632ffe%7C1%7C1%7C636560285685096881&amp;amp;sdata=6f6OgOoU%2FXQHizkGF0BwFDUKSbL4c%2FPSRx68Y0I1VcQ%3D&amp;amp;reserved=0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://na01.safelinks.protection.outlook.com/?url%3Dhttps%253A%252F%252Fcsdms.colorado.edu%252Fwiki%252FForm%253AAnnualmeeting2018%26data%3D02%257C01%257Csj353%2540soe.rutgers.edu%257Ce2b096a9a9ef4769154a08d5843508e8%257Cb92d2b234d35447093ff69aca6632ffe%257C1%257C1%257C636560285685096881%26sdata%3D6f6OgOoU%252FXQHizkGF0BwFDUKSbL4c%252FPSRx68Y0I1VcQ%253D%26reserved%3D0&amp;amp;source=gmail&amp;amp;ust=1520872846979000&amp;amp;usg=AFQjCNFgStldVaSp-3FIdYws5FgIYKOcUA&quot;&gt;https://csdms.colorado.edu/&lt;wbr /&gt;wiki/Form:Annualmeeting2018&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Call for Workshop Partnership &amp; Funds [15 Jan]</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/33-call-for-workshop-partnership-funds-15-jan"/>
+		<published>2018-01-02T16:46:17+00:00</published>
+		<updated>2018-01-02T16:46:17+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/33-call-for-workshop-partnership-funds-15-jan</id>
+		<author>
+			<name>Allen Pope</name>
+			<email>allen.pope@nsidc.org</email>
+		</author>
+		<summary type="html">&lt;h2&gt;&lt;strong&gt;Call for Workshop Partnership &amp;amp; Funds [15 Jan]&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The NSF funded Polar Computing Research Coordination Network (&lt;a href=&quot;http://polar-computing.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://polar-computing.org&amp;amp;source=gmail&amp;amp;ust=1514996206409000&amp;amp;usg=AFQjCNHyROMHUwLsCCIY4jTmQaqhIQvYpw&quot;&gt;http://polar-computing.org&lt;/a&gt;) was tasked with analyzing opportunities and barrier in the uptake of high-performance &amp;amp; distributed computing in polar science. Specifically, the RCN was to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Address why the polar sciences are poorly represented in the use of HPDC cyberinfrastructure,&lt;/li&gt;
+&lt;li&gt;Learn how the Polar Sciences were using and wished to use HPDC resources.&lt;/li&gt;
+&lt;li&gt;Explore how to ensure that plans and design for new and existing NSF-funded cyberinfrastructure efforts are cognizant of the needs of the Polar Science community, and&lt;/li&gt;
+&lt;li&gt;Understand how best to educate a new generation of polar scientists in the skills needed to realize the opportunities and potential of HPDC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Having covered the core areas we proposed to NSF, we would like to engage and seek the broader community in determining the next areas of focus. We e would like to offer $15,000 to host a domestic event (must be hosted in the US for US participants) &amp;nbsp;to achieve these goals. We want to hear from YOU about how YOUR community could team up with the Polar Computing RCN to either expand or deepen our response to the charge detailed above.&lt;/p&gt;
+&lt;p&gt;Submit just a two-paragraph &amp;ldquo;proposal&amp;rdquo; to PI &lt;a href=&quot;mailto:Shantenu.Jha@rutgers.edu&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Shantenu.Jha@rutgers.edu&lt;/a&gt; describing your community, your proposed event, and how you would use the available funds. Deadline for submission is 15 January 2018. More information on the RCN and past activities at &lt;a href=&quot;http://polar-computing.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://polar-computing.org&amp;amp;source=gmail&amp;amp;ust=1514996206409000&amp;amp;usg=AFQjCNHyROMHUwLsCCIY4jTmQaqhIQvYpw&quot;&gt;http://polar-computing.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;h2&gt;&lt;strong&gt;Call for Workshop Partnership &amp;amp; Funds [15 Jan]&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The NSF funded Polar Computing Research Coordination Network (&lt;a href=&quot;http://polar-computing.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://polar-computing.org&amp;amp;source=gmail&amp;amp;ust=1514996206409000&amp;amp;usg=AFQjCNHyROMHUwLsCCIY4jTmQaqhIQvYpw&quot;&gt;http://polar-computing.org&lt;/a&gt;) was tasked with analyzing opportunities and barrier in the uptake of high-performance &amp;amp; distributed computing in polar science. Specifically, the RCN was to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Address why the polar sciences are poorly represented in the use of HPDC cyberinfrastructure,&lt;/li&gt;
+&lt;li&gt;Learn how the Polar Sciences were using and wished to use HPDC resources.&lt;/li&gt;
+&lt;li&gt;Explore how to ensure that plans and design for new and existing NSF-funded cyberinfrastructure efforts are cognizant of the needs of the Polar Science community, and&lt;/li&gt;
+&lt;li&gt;Understand how best to educate a new generation of polar scientists in the skills needed to realize the opportunities and potential of HPDC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Having covered the core areas we proposed to NSF, we would like to engage and seek the broader community in determining the next areas of focus. We e would like to offer $15,000 to host a domestic event (must be hosted in the US for US participants) &amp;nbsp;to achieve these goals. We want to hear from YOU about how YOUR community could team up with the Polar Computing RCN to either expand or deepen our response to the charge detailed above.&lt;/p&gt;
+&lt;p&gt;Submit just a two-paragraph &amp;ldquo;proposal&amp;rdquo; to PI &lt;a href=&quot;mailto:Shantenu.Jha@rutgers.edu&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Shantenu.Jha@rutgers.edu&lt;/a&gt; describing your community, your proposed event, and how you would use the available funds. Deadline for submission is 15 January 2018. More information on the RCN and past activities at &lt;a href=&quot;http://polar-computing.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://polar-computing.org&amp;amp;source=gmail&amp;amp;ust=1514996206409000&amp;amp;usg=AFQjCNHyROMHUwLsCCIY4jTmQaqhIQvYpw&quot;&gt;http://polar-computing.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Polar2018:  Software Carpentry &amp; Intro. to HPC Workshop</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/workshops/scar-2018-software-carpentry-intro-to-hpc-workshop"/>
+		<published>2017-10-13T18:40:09+00:00</published>
+		<updated>2017-10-13T18:40:09+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/workshops/scar-2018-software-carpentry-intro-to-hpc-workshop</id>
+		<author>
+			<name>Jane Wyngaard</name>
+			<email>Jane.R.Wyngaard@jpl.nasa.gov</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Software Carpentry &amp;amp; Intro to HPC Workshop&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A two-day workshop for polar scientists interested in learning tools for data analysis and computation&lt;br /&gt;using high-performance computing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When and Where&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;June 16-17, 2018&lt;/p&gt;
+&lt;p&gt;Davos, Switzerland, collocated with &lt;a href=&quot;http://www.polar2018.org/&quot;&gt;Polar2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Full Agenda:&lt;/strong&gt;&amp;nbsp;&lt;a href=&quot;http://www.caseyyoungflesh.com/2018-06-16-davos/&quot;&gt;http://www.caseyyoungflesh.com/2018-06-16-davos/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What: Topics covered will include introductions to;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python programming&lt;/li&gt;
+&lt;li&gt;Shell scripting&lt;/li&gt;
+&lt;li&gt;Git and version control&lt;/li&gt;
+&lt;li&gt;High-performance&amp;nbsp;computers&lt;/li&gt;
+&lt;li&gt;Best practices in data management and reproducible research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Graduate students and other early career researchers particularly encouraged to apply.&lt;br /&gt;Prior programming experience helpful but not required.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More Information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.caseyyoungflesh.com/2018-06-16-davos/&quot;&gt;Full and updated workshop information is available here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The workshop is free but space is limited. Feel free to&amp;nbsp;share this page/the &lt;a href=&quot;https://polar.crc.nd.edu/images/Documents/Polar2018-flyer.pdf&quot;&gt;flyer [pdf]&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Software Carpentry &amp;amp; Intro to HPC Workshop&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A two-day workshop for polar scientists interested in learning tools for data analysis and computation&lt;br /&gt;using high-performance computing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When and Where&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;June 16-17, 2018&lt;/p&gt;
+&lt;p&gt;Davos, Switzerland, collocated with &lt;a href=&quot;http://www.polar2018.org/&quot;&gt;Polar2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Full Agenda:&lt;/strong&gt;&amp;nbsp;&lt;a href=&quot;http://www.caseyyoungflesh.com/2018-06-16-davos/&quot;&gt;http://www.caseyyoungflesh.com/2018-06-16-davos/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What: Topics covered will include introductions to;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python programming&lt;/li&gt;
+&lt;li&gt;Shell scripting&lt;/li&gt;
+&lt;li&gt;Git and version control&lt;/li&gt;
+&lt;li&gt;High-performance&amp;nbsp;computers&lt;/li&gt;
+&lt;li&gt;Best practices in data management and reproducible research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Graduate students and other early career researchers particularly encouraged to apply.&lt;br /&gt;Prior programming experience helpful but not required.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More Information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.caseyyoungflesh.com/2018-06-16-davos/&quot;&gt;Full and updated workshop information is available here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The workshop is free but space is limited. Feel free to&amp;nbsp;share this page/the &lt;a href=&quot;https://polar.crc.nd.edu/images/Documents/Polar2018-flyer.pdf&quot;&gt;flyer [pdf]&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Polar HPC Hackathon 2017</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/30-polar-hpc-hackathon-2017"/>
+		<published>2017-08-26T15:50:24+00:00</published>
+		<updated>2017-08-26T15:50:24+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/30-polar-hpc-hackathon-2017</id>
+		<author>
+			<name>Shantenu Jha</name>
+			<email>shantenu.jha@rutgers.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;Here is a storify &lt;a href=&quot;https://storify.com/r4space/polar-hpdc-hackathon-2017&quot;&gt;report &lt;/a&gt;of the second Polar HPC hackathon.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Here is a storify &lt;a href=&quot;https://storify.com/r4space/polar-hpdc-hackathon-2017&quot;&gt;report &lt;/a&gt;of the second Polar HPC hackathon.&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>2nd HPC-Polar Hackathon</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/29-2nd-hpc-polar-hackathon"/>
+		<published>2017-07-30T21:15:59+00:00</published>
+		<updated>2017-07-30T21:15:59+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/29-2nd-hpc-polar-hackathon</id>
+		<author>
+			<name>Shantenu Jha</name>
+			<email>shantenu.jha@rutgers.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;The 2nd HPC-Polar Hackathon featuring 6 teams working on different polar science problems, will be held at the IACS at Stony Brook University from 01-04 August, 2017. &amp;nbsp;We are grateful for support from Google (Higher Education and Research) and the Indiana University for their support.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The 2nd HPC-Polar Hackathon featuring 6 teams working on different polar science problems, will be held at the IACS at Stony Brook University from 01-04 August, 2017. &amp;nbsp;We are grateful for support from Google (Higher Education and Research) and the Indiana University for their support.&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>SCAR 2016 Report</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/25-scar-2016-discussion-report"/>
+		<published>2016-08-24T00:36:27+00:00</published>
+		<updated>2016-08-24T00:36:27+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/25-scar-2016-discussion-report</id>
+		<author>
+			<name>Allen Pope</name>
+			<email>allen.pope@nsidc.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;On August 21, 2016, we held a side meeting on polar cyberinfrastructure at the &lt;a href=&quot;http://scar2016.com/&quot;&gt;SCAR meeting&lt;/a&gt;. Read &lt;a href=&quot;http://polar.crc.nd.edu/index.php/workshops/com-workshop-2&quot;&gt;a short summary of the discussion here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;On August 21, 2016, we held a side meeting on polar cyberinfrastructure at the &lt;a href=&quot;http://scar2016.com/&quot;&gt;SCAR meeting&lt;/a&gt;. Read &lt;a href=&quot;http://polar.crc.nd.edu/index.php/workshops/com-workshop-2&quot;&gt;a short summary of the discussion here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Hackathon Storify</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/24-hackathon-storify"/>
+		<published>2016-08-19T15:11:50+00:00</published>
+		<updated>2016-08-19T15:11:50+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/24-hackathon-storify</id>
+		<author>
+			<name>Allen Pope</name>
+			<email>allen.pope@nsidc.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;https://storify.com/r4space/getting-started#publicize&quot;&gt;Polar-HPC Hackathon 2016 Storify&lt;/a&gt;:&amp;nbsp;Highlights of the NSF sponsored hackathon designed to get the HPC and Polar Science community collaborating!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://storify.com/r4space/getting-started#publicize&quot;&gt;Polar-HPC Hackathon 2016 Storify&lt;/a&gt;:&amp;nbsp;Highlights of the NSF sponsored hackathon designed to get the HPC and Polar Science community collaborating!&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Imagery Wkshp Photo</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/23-imagery-workshop-photo"/>
+		<published>2016-06-06T21:46:57+00:00</published>
+		<updated>2016-06-06T21:46:57+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/23-imagery-workshop-photo</id>
+		<author>
+			<name>Allen Pope</name>
+			<email>allen.pope@nsidc.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;The Imagery Workshop was a success! Click here for&amp;nbsp;&lt;a href=&quot;http://polar.crc.nd.edu/index.php/workshops/spring-imagery-workshop&quot;&gt;more info and an attendee list / photo&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Imagery Workshop was a success! Click here for&amp;nbsp;&lt;a href=&quot;http://polar.crc.nd.edu/index.php/workshops/spring-imagery-workshop&quot;&gt;more info and an attendee list / photo&lt;/a&gt;.&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>XSEDE scholar program</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/18-xsede-scholars"/>
+		<published>2016-01-13T20:18:52+00:00</published>
+		<updated>2016-01-13T20:18:52+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/18-xsede-scholars</id>
+		<author>
+			<name>Jarek Naberzyski</name>
+			<email>naber@nd.edu</email>
+		</author>
+		<summary type="html">&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;The &lt;a href=&quot;https://www.xsede.org/xsede-scholars-program&quot;&gt;XSEDE Scholars Program &lt;/a&gt;is accepting applications.&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Deadline for application: February 1, 2016&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;The &lt;a href=&quot;https://www.xsede.org/xsede-scholars-program&quot;&gt;XSEDE Scholars Program &lt;/a&gt;is accepting applications.&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Deadline for application: February 1, 2016&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Polar Computing RCN and Flyer @ AGU</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/17-polar-computing-rcn-and-flyer-agu"/>
+		<published>2015-12-08T23:57:51+00:00</published>
+		<updated>2015-12-08T23:57:51+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/17-polar-computing-rcn-and-flyer-agu</id>
+		<author>
+			<name>Shantenu Jha</name>
+			<email>shantenu.jha@rutgers.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;The Polar Computing Team will be at the AGU. Click here to see a &lt;a href=&quot;https://polar.crc.nd.edu/images/polar-rcn/PolarRCN_flyer_AGU15.pdf&quot;&gt;flyer&lt;/a&gt;&amp;nbsp;and a&amp;nbsp;&lt;a href=&quot;https://docs.google.com/presentation/d/1U7Mnf-x5kQZ0k9V2OQ_sDsZUPNzPgN2zR6XOYBnsxm8/&quot;&gt;talk&lt;/a&gt; introducing the RCN.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Polar Computing Team will be at the AGU. Click here to see a &lt;a href=&quot;https://polar.crc.nd.edu/images/polar-rcn/PolarRCN_flyer_AGU15.pdf&quot;&gt;flyer&lt;/a&gt;&amp;nbsp;and a&amp;nbsp;&lt;a href=&quot;https://docs.google.com/presentation/d/1U7Mnf-x5kQZ0k9V2OQ_sDsZUPNzPgN2zR6XOYBnsxm8/&quot;&gt;talk&lt;/a&gt; introducing the RCN.&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>NYTimes featuring RCN Senior Investigator Asa..</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/15-nytimes-featuring-rcn-senior-investigator-asa"/>
+		<published>2015-11-10T12:37:17+00:00</published>
+		<updated>2015-11-10T12:37:17+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/15-nytimes-featuring-rcn-senior-investigator-asa</id>
+		<author>
+			<name>Shantenu Jha</name>
+			<email>shantenu.jha@rutgers.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html?_r=0&quot;&gt;NYTimes&lt;/a&gt; featuring RCN Senior Investigator Asa!&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html?_r=0&quot;&gt;NYTimes&lt;/a&gt; featuring RCN Senior Investigator Asa!&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+	<entry>
+		<title>Polar RCN Funded</title>
+		<link rel="alternate" type="text/html" href="https://polar.crc.nd.edu/index.php/polar-rcn-notices/14-polar-rcn-funded"/>
+		<published>2015-10-08T12:42:21+00:00</published>
+		<updated>2015-10-08T12:42:21+00:00</updated>
+		<id>https://polar.crc.nd.edu/index.php/polar-rcn-notices/14-polar-rcn-funded</id>
+		<author>
+			<name>Kristina Davis</name>
+			<email>kfurse@nd.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;Spring 2015 - The Polar Research Coordination Network has received funding from the National Science Foundation.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Spring 2015 - The Polar Research Coordination Network has received funding from the National Science Foundation.&lt;/p&gt;</content>
+		<category term="Polar RCN Noticeboard" />
+	</entry>
+</feed>
